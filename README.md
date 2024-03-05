@@ -33,3 +33,9 @@ A 150-mile-long natural gas pipeline consists of several injections and deliv­ 
 At D (milepost 100), gas enters the pipeline at 60 MMSCFD. All streams of gas may be assumed to have a specific gravity of 0.65 and a viscosity of O x 10 lb/ft-s. The pipe is internally coated (to reduce friction), resulting in an absolute roughness of 150 μ in. Assume a constant gas w temperature of 60 °F and base pressure and base temperature of 14.7 psia and 60 °F, respectively. Use a constant compressibility factor of 35 throughout. Neglect elevation differences along the pipeline. 
 1.Using the American Gas Association (AGA) equation, calculate the pressures along the pipeline at points A, B, C, and D for a minimum delivery pressure of 300 psig at the terminus E. Assume drag factor = 0.96.
 2. What diameter pipe will be required for section DE if the required de­ livery pressure at E is increased to 500 psig? The inlet pressure at A re­ mains the same as calculated above.
+
+# A short video of app and explain solution
+
+https://github.com/sajadghandehari/Estimate-Pipeline-Pressure/assets/84021911/bc800998-c97d-4b86-a5b9-15a60886dac9
+
+
